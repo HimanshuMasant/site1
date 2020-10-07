@@ -1,0 +1,127 @@
+/***************Tag Selectors***************/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: Sacramento, cursive;
+  font-size: 6rem;
+  margin: 0;
+  padding-top: 150px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: Montserrat, cursive;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: Montserrat, sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: Merriweather, serif;
+  line-height: 2;
+}
+
+hr {
+  border: dotted;
+  border-width: 6px;
+  border-bottom: none;
+  margin: 50px auto;
+  color: #c6e7e7;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/***************Class Selectors**************/
+.himanshu {
+  width: 15%;
+  border-radius: 100%;
+}
+
+.hr-width {
+  width: 5%;
+}
+
+.programming-icon {
+  width: 15%;
+  float: left;
+  margin: 15px;
+}
+
+.startup-icon {
+  width: 10%;
+  float: right;
+  margin: 10px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.button {
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+  background-color: #11CDD4;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:hover {
+  background: #11999E;
+}
+
+.copy {
+  color: #D2ECEC;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 2.5rem;
+  right: 15rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15rem;
+}
+
+.skills {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.cont-msg{width: 50%;
+margin: auto;
+padding-bottom: 25px;
+padding-top: 25px;}
+
+.first {
+  background-color: #E4F9F5;
+}
+
+.secound {
+  margin: 100px 0;
+}
+
+.third {
+  background-color: #66BFBF;
+  padding: 25px;
+}
+
+/***************ID Selectors***************/
